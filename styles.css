@@ -31,7 +31,7 @@
   gap: 25px;
   flex-wrap: wrap; /*Flex items will wrap to the next line if they cannot fit within the container's width. This allows the items to break into multiple rows. */
   padding: 25px;
-  border: 2px solid rgb(26, 25, 25);
+  border: 2px solid rgb(19, 18, 18);
   backdrop-filter: blur(8px); /*for the glass look */
   border: 1px solid rgba(255, 255, 255, 0.5);
   box-shadow: 0 5px 15px solid rgba(0, 0, 0, 0.1);
